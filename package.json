@@ -1,0 +1,18 @@
+{
+    "name": "web-admin",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-editor-classic": "^24.0.0",
+        "axios": "^0.20.0",
+        "vue": "^3.0.2",
+        "vue-router": "^4.0.0-beta.7"
+    },
+    "devDependencies": {
+        "vite": "^1.0.0-rc.4",
+        "@vue/compiler-sfc": "^3.0.2"
+    }
+}
